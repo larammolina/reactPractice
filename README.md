@@ -1,2 +1,3 @@
-# reactPractice
-react react react
+# React Practice
+
+Studying REACT at codecademy.com
